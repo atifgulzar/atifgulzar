@@ -17,9 +17,6 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 
-### 📊 GitHub Stats
-![Atif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifgulzar&show_icons=true&theme=tokyonight)
-
 💬 Feel free to reach out or **buy me a coffee** ☕️ if you like my work!  
 
 ---
